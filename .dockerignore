@@ -1,0 +1,15 @@
+/.git
+/temp
+/tmp
+/*tmp
+/*temp
+.dockerignore
+.gitignore
+Dockerfile
+/logs
+/dist
+/*.sh
+/docker-comspose.yml
+*.md
+/etcd_data
+/apisix

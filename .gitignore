@@ -1,3 +1,9 @@
+/etcd_data
+/*temp
+/apisix/
+/logs/*
+/tmp/*
+/conf/*.uid
 # Compiled Lua sources
 luac.out
 
